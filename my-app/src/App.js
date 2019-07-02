@@ -8,6 +8,7 @@ function App() {
       <h1>This is a React project.</h1>
       <p>This is really working.</p>
       <Person />
+      <Person />
     </div>
   );
 }
